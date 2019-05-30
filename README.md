@@ -11,6 +11,6 @@ This blocks files in your chrome browser depending on the pattern.
 2. Go to chrome://extension in the address bar.
 3. Look for this extension and click on the refresh icon.
 
-## API
+## API:
 https://developer.chrome.com/extensions/webRequest
 
